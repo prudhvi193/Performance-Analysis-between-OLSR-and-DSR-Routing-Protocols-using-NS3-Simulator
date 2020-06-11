@@ -20,4 +20,7 @@ i) Operating System Used: Ubuntu 16.04
 
 ii) Programming Languages: C++
 
-iii) Other Software:
+iii) Other Software: NS3, VMWare 12.0, Trace Metrics, Python Visualizer
+
+
+

@@ -20,7 +20,10 @@ i) Operating System Used: Ubuntu 16.04
 
 ii) Programming Languages: C++
 
-iii) Other Software: NS3, VMWare 12.0, Trace Metrics, Python Visualizer
+iii) Other Software: NS3, VMWare 12.0, Trace Metrics, Python Visualizer, Text Editor as IDE in Ubuntu
+
+"Project Report.pdf" : This file navigates through different stages in the development of the project and also gives a clear outline on how we had brought our assumptions on different parameters while performing a comparison between the proactive and the reactive protocols. This report also gives an explanation on how to use the Trace Metrics and Python Visualizer tools for the NS3 MANET routing protocols and estimate their associated parametric values.
+
 
 
 

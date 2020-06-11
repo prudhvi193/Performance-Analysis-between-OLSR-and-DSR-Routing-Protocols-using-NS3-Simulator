@@ -24,6 +24,7 @@ iii) Other Software: NS3, VMWare 12.0, Trace Metrics, Python Visualizer, Text Ed
 
 "Project Report.pdf" : This file navigates through different stages in the development of the project and also gives a clear outline on how we had brought our assumptions on different parameters while performing a comparison between the proactive and the reactive protocols. This report also gives an explanation on how to use the Trace Metrics and Python Visualizer tools for the NS3 MANET routing protocols and estimate their associated parametric values.
 
+"IJR Published Paper.pdf" : This is a supportive document where we were requested by the department to publish a research paper as there were good end results and findings obtained on the analysis performed as a comparison between the two MANET routing protocols.
 
 
 

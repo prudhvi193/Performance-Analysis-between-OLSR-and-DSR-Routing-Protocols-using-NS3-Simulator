@@ -26,7 +26,7 @@ iii) Other Software: Network Simulator Version-3 (NS3), VMWare 12.0, Trace Metri
 
 In the Appendix attached at the end of the report there is the source code for both the routing protocols which we had developed and made the necessary changes to the code which was inherited from the NS3 website.
 
-"IJR Published Paper.pdf" : This is a supportive document where we were requested by the department to publish a research paper as there were good end results and findings obtained on the analysis performed as a comparison between the two MANET routing protocols.
+"IJR Published Paper.pdf" : This is a supportive document where we were requested by the undergraduate university to publish a research paper as there were good end results and findings obtained on the analysis performed as a comparison between the two MANET routing protocols.
 
 
 

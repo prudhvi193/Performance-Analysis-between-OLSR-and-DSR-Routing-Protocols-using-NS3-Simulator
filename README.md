@@ -12,7 +12,7 @@ The main motive of this project is to show a difference between both proactive a
 
 In proactive routing protocols every node maintains one (or) more tables representing the entire topology of the network and traverse to the destination node whereas the reactive routing protocols are used to setup routes on demand to traverse to the desired destination node. The performance analysis for these protocols are compared between Optimized Link State Routing (OLSR) and Dynamic Source Routing (DSR) Protocols.
 
-The measurements for these protocols can be analysed through a varied set of parameters such as Simulation Time, number of sinks, packets received, end to end delay and throughput. Then this project draws a consclusion about in which conditions to prefer proactive and reactive routing protocols accordingly. To visualzie all these operations this project uses a tool to simulate the protocols which is known as a Network Simulator (NS3) which handles working of different networking protocols.
+The measurements for these protocols can be analyzed through a varied set of parameters such as Simulation Time, number of sinks, packets received, end to end delay and throughput. Then this project draws a conclusion about in which conditions to prefer proactive and reactive routing protocols accordingly. To visualize all these operations this project uses a tool to simulate the protocols which is known as a Network Simulator (NS3) which handles working of different networking protocols.
 
 Software Requirements:
 
